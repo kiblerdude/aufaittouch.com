@@ -1,0 +1,45 @@
+resources:    
+  - uri: /
+    name: MainHandler
+    parameters:
+      template: main_v2.tpl
+
+  - uri: /gallery
+    name: MainHandler
+    parameters:
+      template: gallery_v2.tpl
+
+  - uri: /products
+    name: MainHandler
+    parameters:
+      template: products_v2.tpl             
+
+  - uri: /location
+    name: MainHandler
+    parameters:
+      template: location_v2.tpl
+
+  - uri: /brochure
+    name: BrochureHandler
+    parameters:
+      template: brochure_v2.tpl 
+
+  - uri: /specials
+    name: MainHandler
+    parameters:
+      template: specials_v2.tpl 
+
+  - uri: /policies
+    name: MainHandler
+    parameters:
+      template: policies_v2.tpl
+
+  - uri: /Sitemap.xml
+    name: MainHandler
+    parameters:
+      template: sitemap_v2.tpl      
+
+  - uri: /robots.txt
+    name: MainHandler
+    parameters:
+      template: robots.tpl   

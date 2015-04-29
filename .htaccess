@@ -1,0 +1,4 @@
+rewriteengine on
+RewriteCond %{HTTP_HOST} !^www\.aufaittouch\.com$ [NC]
+RewriteRule ^(.*)$ https://www.aufaittouch.com$1 [R=301,L]
+rewriterule !^(scripts|styles|images|.)/ index.php [NC,L]
