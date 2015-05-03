@@ -16,31 +16,72 @@
         <h1 class="text-center">Products</h1>
         <hr/>
       </div>
-      <div class="row marketing">
-
-        <div class="col-lg-6">
-          <img class="img-rounded img-responsive center-block" src="/images/products/product-1.png">
-          <h2 class="text-center">Dermalogica</h2>
-        </div>
-        <div class="col-lg-6">
-          <img class="img-rounded img-responsive center-block" src="/images/products/product-2.png">
-          <h2 class="text-center">Shellac</h2>
-        </div>
-
-      </div>
 
       <div class="row marketing">
-      
+        <h3 class="text-center">Dermalogica</h3>
         <div class="col-lg-6">
-          <img class="img-rounded img-responsive center-block" src="/images/products/product-3.png">
-          <h2 class="text-center">VersaSpa Spray Tan</h2>
+          <img class="img-rounded img-responsive center-block aufait-touch-product" src="/images/products/dermalogica-2.png">
         </div>
         <div class="col-lg-6">
-          <img class="img-rounded img-responsive center-block" src="/images/products/product-4.png">
-          <h2 class="text-center">Xtreme Eyelash Extensions</h2>
-        </div>
-      
+          <img class="img-rounded img-responsive center-block aufait-touch-product" src="/images/products/dermalogica-1.png">
+        </div>        
       </div>
+
+      <hr/>
+      <div class="row marketing">
+        <h3 class="text-center">Shellac</h3>
+        <div class="col-lg-6">
+          <img class="img-rounded img-responsive center-block aufait-touch-product" src="/images/products/shellac-1.png">          
+        </div>
+        <div class="col-lg-6">
+          <img class="img-rounded img-responsive center-block aufait-touch-product" src="/images/products/shellac-2.png">          
+        </div>        
+      </div>
+
+      <hr/>
+      <div class="row marketing">
+        <h3 class="text-center">La Bella Donna</h3>
+        <div class="col-lg-4">
+          <img class="img-rounded img-responsive center-block aufait-touch-product" src="/images/products/lbd-6.png">          
+        </div>
+        <div class="col-lg-4">
+          <img class="img-rounded img-responsive center-block aufait-touch-product" src="/images/products/lbd-1.png">          
+        </div>
+        <div class="col-lg-4">
+          <img class="img-rounded img-responsive center-block aufait-touch-product" src="/images/products/lbd-2.png">          
+        </div>
+        <div class="col-lg-4">
+          <img class="img-rounded img-responsive center-block aufait-touch-product" src="/images/products/lbd-3.png">          
+        </div>
+        <div class="col-lg-4">
+          <img class="img-rounded img-responsive center-block aufait-touch-product" src="/images/products/lbd-4.png">          
+        </div>
+        <div class="col-lg-4">
+          <img class="img-rounded img-responsive center-block aufait-touch-product" src="/images/products/lbd-5.png">          
+        </div>                                      
+      </div>      
+
+      <hr/>
+      <div class="row marketing">
+        <h3 class="text-center">Xtreme Eyelash Extensions</h3>
+        <div class="col-lg-4">
+          <img class="img-rounded img-responsive center-block aufait-touch-product" src="/images/products/eyelash-3.png">
+        </div>
+        <div class="col-lg-4">
+          <img class="img-rounded img-responsive center-block aufait-touch-product" src="/images/products/eyelash-1.png">
+        </div> 
+        <div class="col-lg-4">
+          <img class="img-rounded img-responsive center-block aufait-touch-product" src="/images/products/eyelash-2.png">
+        </div>                      
+      </div>
+
+      <hr/>
+      <div class="row marketing">
+        <h3 class="text-center">VersaSpa Spray Tan</h3>      
+        <div class="col-lg-12">
+          <img class="img-rounded img-responsive center-block aufait-touch-product" src="/images/products/versaspa-1.png">          
+        </div>
+      </div>      
     </div>
 
 {/block}
