@@ -78,9 +78,12 @@
       <hr/>
       <div class="row marketing">
         <h3 class="text-center">VersaSpa Spray Tan</h3>      
-        <div class="col-lg-12">
-          <img class="img-rounded img-responsive center-block aufait-touch-product" src="/images/products/versaspa-1.png">          
+        <div class="col-lg-6">
+          <img class="img-rounded img-responsive center-block aufait-touch-product" src="/images/products/versaspa-1.png">     
         </div>
+        <div class="col-lg-6">
+          <img class="img-rounded img-responsive center-block aufait-touch-product" src="/images/products/versaspa-2.png">     
+        </div>        
       </div>      
     </div>
 

@@ -33,6 +33,12 @@
               <li data-target="#myCarousel" data-slide-to="5"></li>
               <li data-target="#myCarousel" data-slide-to="6"></li>
               <li data-target="#myCarousel" data-slide-to="7"></li>
+              <li data-target="#myCarousel" data-slide-to="8"></li>
+              <li data-target="#myCarousel" data-slide-to="9"></li>
+              <li data-target="#myCarousel" data-slide-to="10"></li>
+              <li data-target="#myCarousel" data-slide-to="11"></li>
+              <li data-target="#myCarousel" data-slide-to="12"></li>
+              <li data-target="#myCarousel" data-slide-to="13"></li>         
             </ol>
             <div class="carousel-inner" role="listbox">
               <div class="item active">
@@ -46,9 +52,6 @@
               </div>              
               <div class="item">
                 <img class="img-rounded" src="/images/about-4.png"/>
-              </div>
-              <div class="item">
-                <img class="img-rounded" src="/images/about-10.png"/>
               </div>               
               <div class="item">
                 <img class="img-rounded" src="/images/about-12.png"/>
@@ -58,6 +61,27 @@
               </div>
               <div class="item">
                 <img class="img-rounded" src="/images/about-7.png"/>
+              </div>
+              <div class="item">
+                <img class="img-rounded" src="/images/gallery-1.png"/>
+              </div>
+              <div class="item">
+                <img class="img-rounded" src="/images/gallery-2.png"/>
+              </div>
+              <div class="item">
+                <img class="img-rounded" src="/images/gallery-3.png"/>
+              </div>
+              <div class="item">
+                <img class="img-rounded" src="/images/gallery-4.png"/>
+              </div>
+              <div class="item">
+                <img class="img-rounded" src="/images/gallery-5.png"/>
+              </div>
+              <div class="item">
+                <img class="img-rounded" src="/images/gallery-6.png"/>
+              </div>
+              <div class="item">
+                <img class="img-rounded" src="/images/gallery-7.png"/>
               </div>                                                                    
             </div>
             <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">

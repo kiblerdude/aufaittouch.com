@@ -105,7 +105,7 @@
           <p class="lead">From the moment you enter the spa you'll feel welcome.  Help yourself to a hot cup of coffee or tea and let the pampering begin.</p>
         </div>
         <div class="col-md-5 col-md-pull-7">
-          <img class="img-circle center-block" src="/images/about.png" alt="" width="300px" height="350px">
+          <img class="img-circle center-block" src="/images/home-1.png" alt="" width="300px" height="350px">
         </div>
       </div>        
 
@@ -129,7 +129,7 @@
           <p class="lead">Gift certificates are available.</p>
         </div>
         <div class="col-md-5 col-md-pull-7">
-          <img class="img-circle center-block" src="/images/about-12.png" alt="" width="300px" height="350px">
+          <img class="img-circle center-block" src="/images/home-2.png" alt="" width="300px" height="350px">
         </div>
       </div>
 
