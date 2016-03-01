@@ -1,10 +1,10 @@
 {extends file='main_v2.tpl'}
 {block name="menu"}
-<li><a href="/gallery">Gallery</a></li>
+<!--<li><a href="/gallery">Gallery</a></li>-->
 <li><a href="/products">Products</a></li>
 <li><a href="/location">Location</a></li>
 <li><a href="/brochure">Brochure</a></li>
-<li class="active"><a href="/specials">Specials</a></li>
+<!--<li class="active"><a href="/specials">Specials</a></li>-->
 <li><a href="/policies">Policies</a></li>
 {/block}
 {block name="top"}

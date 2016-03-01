@@ -51,11 +51,11 @@
         <div id="navbar" class="navbar-collapse collapse">
           <ul class="nav navbar-nav">
             {block name="menu"}
-            <li><a href="/gallery">Gallery</a></li>
+            <!--<li><a href="/gallery">Gallery</a></li>-->
             <li><a href="/products">Products</a></li>
             <li><a href="/location">Location</a></li>
             <li><a href="/brochure">Brochure</a></li>
-            <li><a href="/specials">Specials</a></li>
+            <!--<li><a href="/specials">Specials</a></li>-->
             <li><a href="/policies">Policies</a></li>
             {/block}
           </ul>
@@ -89,7 +89,7 @@
       <div class="row featurette">
         <div class="col-md-7">
           <h2 class="featurette-heading">Affordable luxery  <span class="text-muted">every day.</span></h2>
-          <p class="lead">Aufait Touch Day Spa is a luxurious, up-scale, spa offering  hair, nail, skin, massage, make-up (permanent & air brush), and eyelash extension services.
+          <p class="lead">Aufait Touch Day Spa is a luxurious, up-scale, spa offering massage, make-up (permanent & air brush), and eyelash extension services.
           </p>
         </div>
         <div class="col-md-5">

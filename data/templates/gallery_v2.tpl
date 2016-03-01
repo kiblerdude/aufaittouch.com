@@ -4,11 +4,11 @@
 <link href="carousel.css" rel="stylesheet">
 
 {block name="menu"}
-<li class="active"><a href="/gallery">Gallery</a></li>
+<!--<li class="active"><a href="/gallery">Gallery</a></li>-->
 <li><a href="/products">Products</a></li>
 <li><a href="/location">Location</a></li>
 <li><a href="/brochure">Brochure</a></li>
-<li><a href="/specials">Specials</a></li>
+<!--<li><a href="/specials">Specials</a></li>-->
 <li><a href="/policies">Policies</a></li>
 {/block}
 {block name="top"}
