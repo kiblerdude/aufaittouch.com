@@ -22,7 +22,8 @@ resources:
   - uri: /brochure
     name: BrochureHandler
     parameters:
-      template: brochure_v2.tpl 
+      template: brochure_v3.tpl
+      file: data/brochure2.csv
 
   - uri: /specials
     name: MainHandler

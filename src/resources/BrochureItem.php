@@ -6,7 +6,8 @@ class BrochureItem {
     }
     
     public $category = "(category)";
-    public $subCategory = "(subCategory)";
-    public $item = "(item)";
+    public $name = "(name)";
+    public $description = "(description)";
+    public $duration = "(duration)";
     public $price = "(price)";
 }

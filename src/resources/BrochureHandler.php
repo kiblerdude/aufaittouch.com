@@ -12,18 +12,20 @@ class BrochureHandler implements Resource {
         $smarty = new SmartyService();
         
         $template = $parameters["template"];
+        $file = $parameters["file"];
         $year = date("Y");
 
         $brochure = array();
         
-        if (($handle = fopen("data/brochure.csv", "r")) !== FALSE) {
+        if (($handle = fopen($file, "r")) !== FALSE) {
             while (($data = fgetcsv($handle, 1000, ",")) !== FALSE) {
                 $bItem = new BrochureItem();
                 
                 $bItem->category = $data[0];
-                $bItem->subCategory = $data[1];
-                $bItem->item = $data[2];
-                $bItem->price = $data[3];
+                $bItem->name = $data[1];
+                $bItem->description = $data[2];
+                $bItem->duration = $data[3];
+                $bItem->price = $data[4];
                 
                 // check if the category is already mapped
                 if (array_key_exists($bItem->category, $brochure)) {

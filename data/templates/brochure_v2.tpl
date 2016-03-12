@@ -18,12 +18,13 @@
       </div>
     </div>
 
+
     <div class="row">
       <div class="col-md-12">
         <p class="text-center">* Reflects base price.  Prices differ w/ stylists.</p>
         <p class="text-center">**** Consultation required to determine cost</p>
       </div>
-    </div>    
+    </div>
 
     <div class="row">
       <div class="col-md-12">
@@ -41,9 +42,8 @@
             {/foreach}                         
         {/foreach}
         </table>
-      </div>       
+
+      </div> 
     </div>
-
-
 
 {/block}
