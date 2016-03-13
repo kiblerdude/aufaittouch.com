@@ -88,8 +88,8 @@
 
       <div class="row featurette">
         <div class="col-md-7">
-          <h2 class="featurette-heading">Affordable luxery  <span class="text-muted">every day.</span></h2>
-          <p class="lead">Aufait Touch Day Spa is a luxurious, up-scale, spa offering massage, make-up (permanent & air brush), and eyelash extension services.
+          <h2 class="featurette-heading">Affordable luxury  <span class="text-muted">every day.</span></h2>
+          <p class="lead">Aufait Touch Day Spa is a luxurious, up-scale, spa offering massage, facials, body wraps, and eyelash extension services.
           </p>
         </div>
         <div class="col-md-5">
@@ -113,22 +113,10 @@
 
       <div class="row featurette">
         <div class="col-md-7">
-          <h2 class="featurette-heading">Special event? <span class="text-muted">Let us pamper and delight you.</span></h2>
-          <p class="lead">Planning a special event?  Let us pamper and delight you, and your guests, with a spa party.  Spa parties can be designed with your preferences, and budget in mind.</p>
-        </div>
-        <div class="col-md-5">
-          <img class="img-circle center-block" src="/images/about-9.png" alt="" width="300px" height="350px">
-        </div>
-      </div>    
-
-      <hr/>
-
-      <div class="row featurette">
-        <div class="col-md-7 col-md-push-5">
           <h2 class="featurette-heading">The perfect gift <span class="text-muted">for someone special.</span></h2>
           <p class="lead">Gift certificates are available.</p>
         </div>
-        <div class="col-md-5 col-md-pull-7">
+        <div class="col-md-5">
           <img class="img-circle center-block" src="/images/home-2.png" alt="" width="300px" height="350px">
         </div>
       </div>
