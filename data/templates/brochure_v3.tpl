@@ -28,11 +28,17 @@
                     <div class="col-xs-10">
                         <p class="lead">
                     {if $category eq 'Face Treatments'}
+                        <img class="img-rounded center-block" src="/images/brochure/brochure-facial.png" alt="">
                         Aufait Touch Face Treatments are designed to target and address specific skin needs while incorporating massage techniques to stimulate circulation, and induce a feeling of peace and tranquility. Emerge from this treatment relaxed, refreshed and radiant.
                     {elseif $category eq 'Massage Therapy'}
+                        <img class="img-rounded center-block" src="/images/brochure/brochure-massage.png" alt="">
                         Aufait Touch massages are designed to induce deep relaxation. Each massage uses a technique focused on the specific needs of the client. Each style of massage assures tension release, circulation enhancement and overall wellness.
                     {elseif $category eq 'Body Treatments'}
+                        <img class="img-rounded center-block" src="/images/brochure/brochure-bodywrap.png" alt="">
                         Our body treatments are inspired and intended for very specific purposes. Whether to calm the nervous system, reduce water retention and increase circulation, or reduce cellulite, you will emerge from this treatment feeling smooth, refreshed, and wonderfully modified.
+                    {elseif $category eq 'Eyelash Extensions'}
+                        <img class="img-rounded center-block" src="/images/brochure/brochure-eyelash.png" alt="">
+                        Xtreme Lashes&reg; Semi-Permanent Eyelash Extensions are natural-looking, synthetic eyelashes applied one by one to each individual natural lash. Xtreme Lashes&reg; Eyelash Extensions were developed to mimic your natural lashes; its design features a tapered tip with a thicker base to resemble the look and feel of a natural lash. The luxurious natural look of Xtreme Lashes&reg; Eyelash Extensions is achieved by a meticulous and artful application of synthetic lashes, all applied one by one to your natural lash.
                     {/if}
                         </p>
                     </div>
