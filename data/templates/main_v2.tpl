@@ -35,7 +35,7 @@
     {/block}    
   </head>
 
-  <body class="aufait-touch-bg aufait-touch-font ">
+  <body class="aufait-touch-bg aufait-touch-font">
 
     <nav class="navbar navbar-inverse navbar-default aufait-touch-menu">
       <div class="container">

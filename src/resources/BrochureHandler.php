@@ -36,7 +36,7 @@ class BrochureHandler implements Resource {
                     $arr = array();
                     array_push($arr, $bItem);
                     $brochure[$bItem->category] = $arr;
-                } 
+                }
             }
             fclose($handle);
         }
