@@ -26,8 +26,8 @@
                       width="300" height="250"></iframe>
           </p>
 
-          <h3 class="text-center">101 W. Main Street</h3>
-          <h3 class="text-center">Circleville, OH  43113</h3>
+          <h3 class="text-center">210 S. Court Street</h3>
+          <h3 class="text-center">Circleville, Ohio 43113</h3>
           <h3 class="text-center">740-474-3344</h3>
 
         </div>

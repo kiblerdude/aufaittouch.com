@@ -138,8 +138,7 @@
             js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=486600578070878";
             fjs.parentNode.insertBefore(js, fjs);
           }(document, 'script', 'facebook-jssdk'));</script>
-      {/block}      
-
+      {/block} 
 
       <footer>
         <p class="text-center">
@@ -153,7 +152,7 @@
               font="arial"></fb:like>
         </p>   
         <p class="text-center">
-          &copy; {$year} Aufait Touch Day Spa&nbsp;&bull;&nbsp;101 W. Main Street&nbsp;&bull;&nbsp;Circleville, OH 43113&nbsp;&bull;&nbsp;740-474-3344
+          &copy; {$year} Aufait Touch Day Spa&nbsp;&bull;&nbsp;210 S. Court St&nbsp;&bull;&nbsp;Circleville, Ohio 43113&nbsp;&bull;&nbsp;740-474-3344
         </p>
       </footer>
     </div> <!-- /container -->
