@@ -18,7 +18,7 @@
       </div>
       <div class="row">
         <div class="col-md-6">
-          <p class="lead">Aufait Touch Day Spa is located on the corner of W. Main Street and N. Court Street in downtown Circleville.</p>          
+          <p class="lead">Aufait Touch Day Spa is located on the S. Court Street in downtown Circleville.</p>          
           <p class="text-center">
           <iframe src="/images/map.html"
                       frameborder="0" scrolling="no"
