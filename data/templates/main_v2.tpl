@@ -51,7 +51,7 @@
         <div id="navbar" class="navbar-collapse collapse">
           <ul class="nav navbar-nav">
             {block name="menu"}
-            <!--<li><a href="/gallery">Gallery</a></li>-->
+            <li><a href="/gallery">Gallery</a></li>
             <li><a href="/products">Products</a></li>
             <li><a href="/location">Location</a></li>
             <li><a href="/brochure">Brochure</a></li>
@@ -71,7 +71,7 @@
         <div class="aufait-touch-logo">
           <h1 class="text-center">Aufait Touch Day Spa</h1>
           <!--<h2 class="text-center">Offering affordable luxury every day</h2>-->
-          <h3 class="text-center">101 W. Main Street</h3>
+          <h3 class="text-center">210 S. Court Street</h3>
           <h3 class="text-center">Circleville, OH 43113</h3>
           <h3 class="text-center">740-474-3344</h3>
 
