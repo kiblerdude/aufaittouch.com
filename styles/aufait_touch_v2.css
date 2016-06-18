@@ -1,0 +1,30 @@
+.aufait-touch-logo {
+    background-image: url("../images/logo-top.png");
+    background-repeat:no-repeat;
+    background-position: center center;
+    height: 250px;
+}
+
+.aufait-touch-bg {
+    background: #fff4e0;
+    color:#000000;
+}
+
+.aufait-touch-menu {
+
+}
+
+.aufait-touch-font {
+    font-family:"Georgia";
+    font-style:italic;
+}
+
+.aufait-touch-carousel {
+	max-width: 450px;
+    padding-top: 100px;
+}
+
+.aufait-touch-product {
+	max-height: 250px;
+	max-width: 350px;
+}
